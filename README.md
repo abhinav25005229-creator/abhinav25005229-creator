@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 
-<h3 align="center">
-🚀 Aspiring Software Engineer | 💻 Full Stack Developer | 🔥 DSA Enthusiast
-</h3>
-
 <p align="center">
-I am a CSIT Student passionate about Software Development, Data Structures & Algorithms, Open Source and building impactful projects.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full+Stack+Developer;DSA+Enthusiast;Future+FAANG+Engineer;GSoC+2027+Aspirant" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 CSIT Student
-- 🌱 Currently Learning Full Stack Development
-- 💻 Practicing DSA in C++
-- 🚀 Preparing for FAANG Interviews
-- 🌟 Target: GSoC 2027
-- 📫 Reach me on LinkedIn
+🎓 Computer Science Student
+
+💻 Passionate about Coding & Problem Solving
+
+🌱 Currently Learning Data Structures & Algorithms
+
+⚡ Exploring Full Stack Development
+
+🎯 Goal: Crack GSoC 2027 & FAANG
 
 ---
 
@@ -28,64 +27,94 @@ I am a CSIT Student passionate about Software Development, Data Structures & Alg
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/abhinav.25005229-creator">
+<a href="https://github.com/abhinav25005229-creator">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+<img src="https://skillicons.dev/icons?i=express" height="55"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=abhinav.25005229-creator&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=abhinav25005229-creator&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhinav.25005229-creator&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhinav25005229-creator&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav.25005229-creator&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=abhinav.25005229-creator&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav25005229-creator&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 LeetCode Stats
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=abhinav25005229-creator&theme=onedark)
+
+---
+
+# 🔥 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abhinavkumar789?theme=dark&font=Baloo)
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
-[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav.25005229-creator&theme=tokyo-night)](https://github.com/abhinav.25005229-creator)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav25005229-creator&theme=tokyo-night)](https://github.com/abhinav25005229-creator)
 
 ---
 
-## 🎯 Current Goals
+# 🎯 2026 Goals
 
-- ✅ Master DSA
-- ✅ Build Full Stack Projects
-- ✅ Contribute to Open Source
-- 🎯 Crack GSoC 2027
-- 🎯 Get SDE Internship
-- 🎯 Crack FAANG
+✅ 500+ LeetCode Problems
+
+✅ Strong DSA in C++
+
+✅ Full Stack Development
+
+✅ Open Source Contributions
+
+🎯 GSoC 2027
+
+🎯 SDE Internship
+
+🎯 FAANG Placement
 
 ---
 
 ## ✨ Quote
 
-> "Consistency beats talent when talent doesn't work hard."
-
----
-
-⭐ If you like my work, don't forget to star my repositories!
+> "Success is the sum of small efforts repeated day in and day out."
