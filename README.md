@@ -23,22 +23,22 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,python,c,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python,c" />
 </p>
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -142,21 +142,6 @@
 
 ---
 
-# 🎯 2026 Goals
-
-⭐ Become Advanced MERN Stack Developer
-
-⭐ Solve 500+ LeetCode Problems
-
-⭐ Crack Flipkart GRiD
-
-⭐ Contribute to GSSoC & Open Source
-
-⭐ Build SaaS Products
-
-⭐ Get an SDE Internship
-
----
 
 # 🌐 Connect With Me
 
