@@ -1,120 +1,184 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
+<h3 align="center">🚀 MERN Stack Developer | Competitive Programmer | Open Source Contributor</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full+Stack+Developer;DSA+Enthusiast;Future+FAANG+Engineer;GSoC+2027+Aspirant" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;DSA+Enthusiast;Future+Software+Engineer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science Student
-
-💻 Passionate about Coding & Problem Solving
-
-🌱 Currently Learning Data Structures & Algorithms
-
-⚡ Exploring Full Stack Development
-
-🎯 Goal: Crack GSoC 2027 & FAANG
+- 🎓 B.Tech CSIT Student
+- 💻 Learning **MERN Stack Development**
+- 🌱 Currently exploring **React, Express, MongoDB & System Design**
+- 🧠 Regularly solving **DSA Problems**
+- 🤝 Open Source Contributor
+- 🎯 Goal: Crack **SDE Internship & Flipkart GRiD**
+- ⚡ Fun Fact: I love building real-world projects.
 
 ---
 
-## 🌐 Connect With Me
+# 💻 Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abhiabhinav447">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,python,c,mysql" />
+</p>
 
-<a href="https://github.com/abhinav25005229-creator">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
 ---
 
-# 🚀 Tech Stack & Tools
+# 🏆 Certifications
 
-<p align="center">
+- ✅ Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- ✅ Cisco Python Essentials
+- ✅ MongoDB Basics
+- ✅ HP LIFE Certifications
 
-<img src="https://skillicons.dev/icons?i=c" height="55"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
+---
 
-<br>
+# 🚀 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+## 🛒 MERN E-Commerce
 
-<br>
+✔ Authentication
 
-<img src="https://skillicons.dev/icons?i=react" height="55"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
-<img src="https://skillicons.dev/icons?i=express" height="55"/>
+✔ Shopping Cart
 
-<br>
+✔ Wishlist
 
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+✔ Admin Dashboard
 
-<br>
+✔ Razorpay Integration
 
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+✔ Responsive UI
 
-</p>
+---
+
+## 📝 Blogging Platform
+
+✔ JWT Authentication
+
+✔ CRUD Operations
+
+✔ Comments
+
+✔ Rich Text Editor
+
+✔ MongoDB Database
+
+---
+
+## 📊 Expense Tracker
+
+✔ Dashboard
+
+✔ Charts
+
+✔ Monthly Analytics
+
+✔ Authentication
+
+---
+
+## 🎓 Course Selling Platform
+
+✔ Student Dashboard
+
+✔ Secure Login
+
+✔ Payment Integration
+
+✔ Responsive Design
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=abhinav25005229-creator&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhinav25005229-creator&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav25005229-creator&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav25005229-creator&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav25005229-creator&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav25005229-creator&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav25005229-creator&theme=tokyo-night"/>
+
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=abhinav25005229-creator&theme=onedark)
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=abhinav25005229-creator&theme=tokyonight&row=2&column=4"/>
 
-# 🔥 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/abhinavkumar789?theme=dark&font=Baloo)
-
----
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav25005229-creator&theme=tokyo-night)](https://github.com/abhinav25005229-creator)
+</p>
 
 ---
 
 # 🎯 2026 Goals
 
-✅ 500+ LeetCode Problems
+⭐ Become Advanced MERN Stack Developer
 
-✅ Strong DSA in C++
+⭐ Solve 500+ LeetCode Problems
 
-✅ Full Stack Development
+⭐ Crack Flipkart GRiD
 
-✅ Open Source Contributions
+⭐ Contribute to GSSoC & Open Source
 
-🎯 GSoC 2027
+⭐ Build SaaS Products
 
-🎯 SDE Internship
-
-🎯 FAANG Placement
+⭐ Get an SDE Internship
 
 ---
 
-## ✨ Quote
+# 🌐 Connect With Me
 
-> "Success is the sum of small efforts repeated day in and day out."
+<p align="left">
+
+<a href="https://github.com/abhinav25005229-creator">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/abhinavkumar789">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abhinav25005229-creator&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
